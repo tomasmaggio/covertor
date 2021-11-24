@@ -3,5 +3,7 @@ body{
 }
 
 .fondo{
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    padding: 2em;
 }
